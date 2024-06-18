@@ -32,7 +32,7 @@ This Python program implements a voice-controlled assistant similar to Amazon Al
      ```
 
 2. **Execution**:
-   - Run the `alexa.py` script.
+   - Run the `app.py` script.
    - Click the "Start" button in the GUI to activate the assistant.
    - Speak commands prefixed with "Alexa" (e.g., "Alexa, play music").
 
