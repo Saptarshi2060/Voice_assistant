@@ -47,9 +47,6 @@ This Python program implements a voice-controlled assistant similar to Amazon Al
 ## Contributing
 Contributions are welcome! Feel free to fork the repository, make improvements, and submit pull requests.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 - Inspired by virtual assistants like Amazon Alexa.
 - Uses various Python libraries for voice recognition, web interaction, and GUI development.
