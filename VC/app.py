@@ -94,7 +94,7 @@ def run_alexa():
                 talk(pyjokes.get_joke())
             elif 'open google chrome' in command:
                 talk('Opening Google Chrome.')
-                threading.Thread(target=subprocess.Popen, args=(['C:/Program Files/Google/Chrome/Application/chrome.exe'],)).start()
+                threading.Thread(target=subprocess.Popen, args=(['PATH TO CHROME FILE'],)).start()
             elif 'open youtube' in command:
                 talk('Opening YouTube.')
                 youtube_open = True
