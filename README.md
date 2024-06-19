@@ -43,10 +43,7 @@ This Python program implements a voice-controlled assistant similar to Amazon Al
 
 4. **Stopping**:
    - Click the "Stop" button in the GUI to terminate the assistant.
-
-## Contributing
-Contributions are welcome! Feel free to fork the repository, make improvements, and submit pull requests.
-
+     
 ## Acknowledgments
 - Inspired by virtual assistants like Amazon Alexa.
 - Uses various Python libraries for voice recognition, web interaction, and GUI development.
