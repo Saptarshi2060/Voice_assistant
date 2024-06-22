@@ -1,4 +1,4 @@
-# Alexa Voice Assistant.
+# Alexa Voice Assistant
 
 ## Overview
 This Python program implements a voice-controlled assistant similar to Amazon Alexa. It allows users to interact via voice commands to perform various tasks such as playing music on YouTube, retrieving information from Wikipedia, fetching weather updates, and more.
