@@ -48,4 +48,3 @@ This Python program implements a voice-controlled assistant similar to Amazon Al
 - Inspired by virtual assistants like Amazon Alexa.
 - Uses various Python libraries for voice recognition, web interaction, and GUI development.
 
-## Link :  - https://saptarshi2060.github.io/Portfolio/responsive_portfolio/index.html
